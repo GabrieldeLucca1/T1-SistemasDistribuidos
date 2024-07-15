@@ -1,7 +1,8 @@
 # T1-SistemasDistribuidos
 Versão simplificado do chatgpt usando broker ZMQ como unidade centralizadora para troca de dados de texto, áudio e mensagem.
-Instruções de como executar o código:
-    Primeiramente, baixe os arquivos (client.py e broker.py). Para rodar em duas máquinas ou mais, é necessário seguir os seguintes passos:
+
+#Instruções de como executar o código:
+    ##Primeiramente, baixe os arquivos (client.py e broker.py). Para rodar em duas máquinas ou mais, é necessário seguir os seguintes passos:
         - Baixar todas as dependências exigidas pelo código. Para instalar no linux basta digitar ("pip install zmq numpy opencv-python pyaudio") no terminal.
         - Escolher uma máquina para executar o broker. Lembrando que o broker é uma unidade centralizadora responsável por gerenciar o recebimento e o envio
     dos dados de texto, mensagem e vídeo.
