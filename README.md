@@ -1,5 +1,5 @@
 # T1-SistemasDistribuidos
-Versão simplificado do googlemeet usando broker ZMQ como unidade centralizadora para troca de dados de texto, áudio e mensagem.
+Versão simplificada do googlemeet usando broker ZMQ como unidade centralizadora para troca de dados de texto, áudio e mensagem.
 
 # Instruções de como executar o código:
     ## Primeiramente, baixe os arquivos (client.py e broker.py). Para rodar em duas máquinas ou mais, é necessário seguir os seguintes passos:
